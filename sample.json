@@ -1,0 +1,24 @@
+{
+  "project": "Student Management",
+  "version": 1,
+  "active": true,
+  "students": [
+    {
+      "name": "Rahul",
+      "marks": 85,
+      "passed": true
+    },
+    {
+      "name": "Priya",
+      "marks": 92,
+      "passed": true
+    },
+    {
+      "name": "Arun",
+      "marks": 35,
+      "passed": false
+    }
+  ],
+  "subjects": ["Python", "Java", "DBMS"],
+  "description": null
+}
